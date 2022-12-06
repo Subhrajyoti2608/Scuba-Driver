@@ -1,0 +1,11 @@
+Model Information:
+* title:	Scuba Diver - Twinset, Blue Suit
+* source:	https://sketchfab.com/3d-models/scuba-diver-twinset-blue-suit-58114a489b46435eb76ea95aa7c087db
+* author:	babak.shoeiby (https://sketchfab.com/babak.shoeiby)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Scuba Diver - Twinset, Blue Suit" (https://sketchfab.com/3d-models/scuba-diver-twinset-blue-suit-58114a489b46435eb76ea95aa7c087db) by babak.shoeiby (https://sketchfab.com/babak.shoeiby) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
